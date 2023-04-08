@@ -1,0 +1,12 @@
+
+.testimonial-carousel-indicators{
+    position: absolute !important;
+    top: 435px !important;
+    opacity: 0.3 !important;
+}
+
+@media (min-width:768px) { 
+    #myCarousel {
+        display: none !important;
+    }
+}
